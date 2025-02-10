@@ -1,0 +1,5 @@
+500.0	Rua das Palmeiras, 123	6
+750.0	Avenida Central, 456	7
+1200.0	Rua do Comércio, 789	6
+980.0	Alameda das Rosas, 321	9
+650.0	Rua Nova, 654	8

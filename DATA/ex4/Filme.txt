@@ -1,0 +1,10 @@
+Batman Begins	Batman Begins	2005	Origem do Batman é explorada	1	1
+O Resgate do Soldado Ryan	Saving Private Ryan	1998	Soldados em missão de resgate	2	2
+Pulp Fiction	Pulp Fiction	1994	Histórias interligadas de crime	3	3
+Avatar	Avatar	2009	Mundo de Pandora e os Na’vi	4	4
+O Lobo de Wall Street	The Wolf of Wall Street	2013	Ascensão e queda de um corretor	5	2
+Gladiador	Gladiator	2000	General romano busca vingança	6	1
+O Senhor dos Anéis	The Lord of the Rings	2001	A jornada para destruir o anel	7	7
+O Poderoso Chefão	The Godfather	1972	Família mafiosa em NY	8	2
+2001: Uma Odisseia no Espaço	2001: A Space Odyssey	1968	Exploração espacial e IA	9	4
+Psicose	Psycho	1960	Mistério e assassinato em motel	10	5

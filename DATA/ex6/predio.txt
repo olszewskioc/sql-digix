@@ -1,0 +1,5 @@
+Edifício Aurora	10	4
+Residencial Sol	8	3
+Condomínio Estrela	12	5
+Torre Azul	15	6
+Edifício Vitória	9	4

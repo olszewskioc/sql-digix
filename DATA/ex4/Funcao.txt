@@ -1,0 +1,10 @@
+Gerente
+Atendente
+Bilheteiro
+Faxineiro
+Técnico de Projeção
+Segurança
+Administrador
+Recepcionista
+Zelador
+Supervisor

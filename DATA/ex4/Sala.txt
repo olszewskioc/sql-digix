@@ -1,0 +1,10 @@
+Sala 1	100
+Sala 2	150
+Sala 3	200
+Sala 4	80
+Sala 5	120
+Sala 6	90
+Sala 7	110
+Sala 8	130
+Sala 9	140
+Sala 10	160
