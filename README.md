@@ -22,6 +22,14 @@
     - Lista1.sql => HAVING, CASE, LIKE
 - Aula6
     - Aula6.sql => VIEWS
+- Aula7
+    - Aula7.sql => FUNCTIONS
+- Aula8
+    - Aula8.sql => REVIEW FUNCTIONS
+- Aula9
+    - Aula9.sql => PROCEDURES
+    - Ex9.sql => EXERCISES
+    - TablesEx9.sql => CREATE TABLES FOR EX9
 
 ## DATA
 
