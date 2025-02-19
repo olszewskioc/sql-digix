@@ -30,6 +30,8 @@
     - Aula9.sql => PROCEDURES
     - Ex9.sql => EXERCISES
     - TablesEx9.sql => CREATE TABLES FOR EX9
+- Aula10
+    - Aula10.sql => TRIGGERS
 
 ## DATA
 
